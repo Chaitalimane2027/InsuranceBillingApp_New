@@ -1,0 +1,85 @@
+.main-header{
+    padding-top: 10px;
+    text-align: center;
+   font-weight: bolder;
+   font-size: larger;
+    color: white;
+}
+.mat-form-field{
+   margin: 0 40px 20px 65px;
+   width: 16%;
+   font-size: 15px;
+}
+.col-md-4{
+   width: 100%;
+   margin-top: 1px;
+   padding: 4px;
+  background-color: white;
+}
+.mat-label{
+  font-weight:bolder;
+    font-size: medium;
+  color: white;
+}
+.col-md-6{
+  color: black;
+  background-color: transparent;
+}
+table {
+    width: 90%;
+    margin: auto 25px 30px 65px;
+ }
+ .mat-elevation-z8{
+   align-items: center;
+ }
+ th.mat-header-cell{
+    font-weight:bolder;
+    font-size: medium;
+    color: black;
+    padding: 1px;
+ }
+ .mat-raised-button{
+    margin: 5px;
+ }
+ .edit{
+   background-color: green;
+ }
+ .delete{
+   background-color: red;
+ }
+ td.update{
+  text-align: center;
+ }
+  #item:hover{
+    background-color: lightblue;
+  }
+ #item{
+   color: black;
+    background-color:  white;
+   }
+ th.actions{
+   text-align: center;
+ }
+ td.mat-cell{
+   padding-right: 30px;
+ }
+ .data-notfound-error{
+   margin-top: 200px;
+   margin-bottom: 220px;
+   font-weight:bolder;
+   font-size:xx-large;
+   color: whitesmoke;
+   text-align: center;
+  }
+  .mat-paginator {
+    color: white;
+    background-color: transparent;
+    font-weight:bolder;
+    font-size: small;
+  }
+  ::ng-deep .mat-select-value {
+    color: white;
+    font-weight:bolder;
+    font-size: small;
+  }
+
